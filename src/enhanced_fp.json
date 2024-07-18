@@ -1,0 +1,344 @@
+[
+  {
+    "key": "webgl_extensions",
+    "value": "ANGLE_instanced_arrays;EXT_blend_minmax;EXT_clip_control;EXT_color_buffer_half_float;EXT_depth_clamp;EXT_float_blend;EXT_frag_depth;EXT_polygon_offset_clamp;EXT_shader_texture_lod;EXT_texture_compression_bptc;EXT_texture_compression_rgtc;EXT_texture_filter_anisotropic;EXT_texture_mirror_clamp_to_edge;EXT_sRGB;OES_element_index_uint;OES_fbo_render_mipmap;OES_standard_derivatives;OES_texture_float;OES_texture_float_linear;OES_texture_half_float;OES_texture_half_float_linear;OES_vertex_array_object;WEBGL_color_buffer_float;WEBGL_compressed_texture_astc;WEBGL_compressed_texture_etc;WEBGL_compressed_texture_etc1;WEBGL_compressed_texture_s3tc;WEBGL_compressed_texture_s3tc_srgb;WEBGL_debug_renderer_info;WEBGL_debug_shaders;WEBGL_depth_texture;WEBGL_draw_buffers;WEBGL_lose_context;WEBGL_multi_draw;WEBGL_polygon_mode"
+  },
+  {
+    "key": "webgl_extensions_hash",
+    "value": "a0b3b7ac4cbca4984e183045148a91f4"
+  },
+  {
+    "key": "webgl_renderer",
+    "value": "WebKit WebGL"
+  },
+  {
+    "key": "webgl_vendor",
+    "value": "WebKit"
+  },
+  {
+    "key": "webgl_version",
+    "value": "WebGL 1.0 (OpenGL ES 2.0 Chromium)"
+  },
+  {
+    "key": "webgl_shading_language_version",
+    "value": "WebGL GLSL ES 1.0 (OpenGL ES GLSL ES 1.0 Chromium)"
+  },
+  {
+    "key": "webgl_aliased_line_width_range",
+    "value": "[1, 1]"
+  },
+  {
+    "key": "webgl_aliased_point_size_range",
+    "value": "[1, 1023]"
+  },
+  {
+    "key": "webgl_antialiasing",
+    "value": "yes"
+  },
+  {
+    "key": "webgl_bits",
+    "value": "8,8,24,8,8,0"
+  },
+  {
+    "key": "webgl_max_params",
+    "value": "16,64,16384,4096,8192,32,8192,31,16,32,4096"
+  },
+  {
+    "key": "webgl_max_viewport_dims",
+    "value": "[8192, 8192]"
+  },
+  {
+    "key": "webgl_unmasked_vendor",
+    "value": "Google Inc. (Google)"
+  },
+  {
+    "key": "webgl_unmasked_renderer",
+    "value": "ANGLE (Google, Vulkan 1.3.0 (SwiftShader Device (Subzero) (0x0000C0DE)), SwiftShader driver)"
+  },
+  {
+    "key": "webgl_vsf_params",
+    "value": "23,127,127,10,15,15,10,15,15"
+  },
+  {
+    "key": "webgl_vsi_params",
+    "value": "0,31,30,0,15,14,0,15,14"
+  },
+  {
+    "key": "webgl_fsf_params",
+    "value": "23,127,127,10,15,15,10,15,15"
+  },
+  {
+    "key": "webgl_fsi_params",
+    "value": "0,31,30,0,15,14,0,15,14"
+  },
+  {
+    "key": "webgl_hash_webgl",
+    "value": "d8082c44ba1ec02f12caa20f340e14c6"
+  },
+  {
+    "key": "user_agent_data_brands",
+    "value": "Chromium,Microsoft Edge,Not-A.Brand"
+  },
+  {
+    "key": "user_agent_data_mobile",
+    "value": false
+  },
+  {
+    "key": "navigator_connection_downlink",
+    "value": 1.6
+  },
+  {
+    "key": "navigator_connection_downlink_max",
+    "value": null
+  },
+  {
+    "key": "network_info_rtt",
+    "value": 150
+  },
+  {
+    "key": "network_info_save_data",
+    "value": false
+  },
+  {
+    "key": "network_info_rtt_type",
+    "value": null
+  },
+  {
+    "key": "screen_pixel_depth",
+    "value": 24
+  },
+  {
+    "key": "navigator_device_memory",
+    "value": 8
+  },
+  {
+    "key": "navigator_pdf_viewer_enabled",
+    "value": true
+  },
+  {
+    "key": "navigator_languages",
+    "value": "zh-CN,en,en-GB,en-US"
+  },
+  {
+    "key": "window_inner_width",
+    "value": 0
+  },
+  {
+    "key": "window_inner_height",
+    "value": 0
+  },
+  {
+    "key": "window_outer_width",
+    "value": 1940
+  },
+  {
+    "key": "window_outer_height",
+    "value": 1100
+  },
+  {
+    "key": "browser_detection_firefox",
+    "value": false
+  },
+  {
+    "key": "browser_detection_brave",
+    "value": false
+  },
+  {
+    "key": "browser_api_checks",
+    "value": [
+      "permission_status: true",
+      "eye_dropper: true",
+      "audio_data: true",
+      "writable_stream: true",
+      "css_style_rule: true",
+      "navigator_ua: true",
+      "barcode_detector: false",
+      "display_names: true",
+      "contacts_manager: false",
+      "svg_discard_element: false",
+      "usb: defined",
+      "media_device: defined",
+      "playback_quality: true"
+    ]
+  },
+  {
+    "key": "browser_object_checks",
+    "value": "554838a8451ac36cb977e719e9d6623c"
+  },
+  {
+    "key": "29s83ih9",
+    "value": "68934a3e9455fa72420237eb05902327?"
+  },
+  {
+    "key": "audio_codecs",
+    "value": "{\"ogg\":\"probably\",\"mp3\":\"probably\",\"wav\":\"probably\",\"m4a\":\"maybe\",\"aac\":\"probably\"}"
+  },
+  {
+    "key": "audio_codecs_extended",
+    "value": "{\"audio/mp4; codecs=\\\"mp4a.40\\\"\":{\"canPlay\":\"maybe\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.1\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.2\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":true},\"audio/mp4; codecs=\\\"mp4a.40.3\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.4\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.5\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":true},\"audio/mp4; codecs=\\\"mp4a.40.6\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.7\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.8\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.9\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.12\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.13\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.14\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.15\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.16\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.17\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.19\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.20\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.21\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.22\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.23\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.24\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.25\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.26\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.27\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.28\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.29\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":true},\"audio/mp4; codecs=\\\"mp4a.40.32\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.33\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.34\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.35\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.40.36\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.66\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.67\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":true},\"audio/mp4; codecs=\\\"mp4a.68\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.69\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp4a.6B\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"mp3\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"flac\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":true},\"audio/mp4; codecs=\\\"bogus\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"aac\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"ac3\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mp4; codecs=\\\"A52\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/mpeg; codecs=\\\"mp3\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":false},\"audio/wav; codecs=\\\"0\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/wav; codecs=\\\"2\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/wave; codecs=\\\"0\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/wave; codecs=\\\"1\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/wave; codecs=\\\"2\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/x-wav; codecs=\\\"0\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/x-wav; codecs=\\\"1\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":false},\"audio/x-wav; codecs=\\\"2\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/x-pn-wav; codecs=\\\"0\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/x-pn-wav; codecs=\\\"1\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"audio/x-pn-wav; codecs=\\\"2\\\"\":{\"canPlay\":\"\",\"mediaSource\":false}}"
+  },
+  {
+    "key": "audio_codecs_extended_hash",
+    "value": "805036349642e2569ec299baed02315b"
+  },
+  {
+    "key": "video_codecs",
+    "value": "{\"ogg\":\"\",\"h264\":\"probably\",\"webm\":\"probably\",\"mpeg4v\":\"\",\"mpeg4a\":\"\",\"theora\":\"\"}"
+  },
+  {
+    "key": "video_codecs_extended",
+    "value": "{\"video/mp4; codecs=\\\"hev1.1.6.L93.90\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"video/mp4; codecs=\\\"hvc1.1.6.L93.90\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"video/mp4; codecs=\\\"hev1.1.6.L93.B0\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"video/mp4; codecs=\\\"hvc1.1.6.L93.B0\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"video/mp4; codecs=\\\"vp09.00.10.08\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":true},\"video/mp4; codecs=\\\"vp09.00.50.08\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":true},\"video/mp4; codecs=\\\"vp09.01.20.08.01\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":true},\"video/mp4; codecs=\\\"vp09.01.20.08.01.01.01.01.00\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":true},\"video/mp4; codecs=\\\"vp09.02.10.10.01.09.16.09.01\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":true},\"video/mp4; codecs=\\\"av01.0.08M.08\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":true},\"video/webm; codecs=\\\"vorbis\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":true},\"video/webm; codecs=\\\"vp8\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":true},\"video/webm; codecs=\\\"vp8.0\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":false},\"video/webm; codecs=\\\"vp8.0, vorbis\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":false},\"video/webm; codecs=\\\"vp8, opus\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":true},\"video/webm; codecs=\\\"vp9\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":true},\"video/webm; codecs=\\\"vp9, vorbis\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":true},\"video/webm; codecs=\\\"vp9, opus\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":true},\"video/x-matroska; codecs=\\\"theora\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"application/x-mpegURL; codecs=\\\"avc1.42E01E\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"video/ogg; codecs=\\\"dirac, vorbis\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"video/ogg; codecs=\\\"theora, speex\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"video/ogg; codecs=\\\"theora, vorbis\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"video/ogg; codecs=\\\"theora, flac\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"video/ogg; codecs=\\\"dirac, flac\\\"\":{\"canPlay\":\"\",\"mediaSource\":false},\"video/ogg; codecs=\\\"flac\\\"\":{\"canPlay\":\"probably\",\"mediaSource\":false},\"video/3gpp; codecs=\\\"mp4v.20.8, samr\\\"\":{\"canPlay\":\"\",\"mediaSource\":false}}"
+  },
+  {
+    "key": "video_codecs_extended_hash",
+    "value": "cb2c967d0cd625019556b39c63f7d435"
+  },
+  {
+    "key": "media_query_dark_mode",
+    "value": false
+  },
+  {
+    "key": "css_media_queries",
+    "value": 0
+  },
+  {
+    "key": "css_color_gamut",
+    "value": "srgb"
+  },
+  {
+    "key": "css_contrast",
+    "value": "no-preference"
+  },
+  {
+    "key": "css_monochrome",
+    "value": false
+  },
+  {
+    "key": "css_pointer",
+    "value": "fine"
+  },
+  {
+    "key": "css_grid_support",
+    "value": false
+  },
+  {
+    "key": "headless_browser_phantom",
+    "value": false
+  },
+  {
+    "key": "headless_browser_selenium",
+    "value": false
+  },
+  {
+    "key": "headless_browser_nightmare_js",
+    "value": false
+  },
+  {
+    "key": "headless_browser_generic",
+    "value": 4
+  },
+  {
+    "key": "1l2l5234ar2",
+    "value": "1715567845144?"
+  },
+  {
+    "key": "document__referrer",
+    "value": "https://platform.openai.com/"
+  },
+  {
+    "key": "window__ancestor_origins",
+    "value": [
+      "https://platform.openai.com"
+    ]
+  },
+  {
+    "key": "window__tree_index",
+    "value": [
+      2
+    ]
+  },
+  {
+    "key": "window__tree_structure",
+    "value": "[[],[],[]]"
+  },
+  {
+    "key": "window__location_href",
+    "value": "https://openai-api.arkoselabs.com/v2/2.4.8/enforcement.ce2493911f3dfdadca4d3d4a7370a09d.html"
+  },
+  {
+    "key": "client_config__sitedata_location_href",
+    "value": "https://platform.openai.com/api-keys"
+  },
+  {
+    "key": "client_config__language",
+    "value": null
+  },
+  {
+    "key": "client_config__surl",
+    "value": "https://openai-api.arkoselabs.com"
+  },
+  {
+    "key": "client_config__triggered_inline",
+    "value": false
+  },
+  {
+    "key": "mobile_sdk__is_sdk",
+    "value": false
+  },
+  {
+    "key": "audio_fingerprint",
+    "value": "124.04347527516074"
+  },
+  {
+    "key": "navigator_battery_charging",
+    "value": true
+  },
+  {
+    "key": "media_device_kinds",
+    "value": [
+      "audioinput",
+      "videoinput",
+      "audiooutput"
+    ]
+  },
+  {
+    "key": "media_devices_hash",
+    "value": "199eba60310b53c200cc783906883c67"
+  },
+  {
+    "key": "navigator_permissions_hash",
+    "value": null
+  },
+  {
+    "key": "math_fingerprint",
+    "value": "3b2ff195f341257a6a2abbc122f4ae67"
+  },
+  {
+    "key": "supported_math_functions",
+    "value": "e9dd4fafb44ee489f48f7c93d0f48163"
+  },
+  {
+    "key": "screen_orientation",
+    "value": "landscape-primary"
+  },
+  {
+    "key": "rtc_peer_connection",
+    "value": 5
+  },
+  {
+    "key": "4b4b269e68",
+    "value": "cccfe09a-60b6-494d-b9f4-e6335632e75e"
+  },
+  {
+    "key": "6a62b2a558",
+    "value": "ce2493911f3dfdadca4d3d4a7370a09d"
+  },
+  {
+    "key": "speech_default_voice",
+    "value": "Microsoft Huihui - Chinese (Simplified, PRC) || zh-CN"
+  },
+  {
+    "key": "speech_voices_hash",
+    "value": "ecb3ccdfa12e3a839b3031d3f881fcad"
+  }
+]

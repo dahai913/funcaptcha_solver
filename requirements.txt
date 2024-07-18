@@ -1,0 +1,11 @@
+pillow
+curl_cffi
+cryptography
+mmh3
+fake_useragent
+funcaptcha_challenger
+python-dotenv
+flask
+numpy<2.0
+gunicorn
+
